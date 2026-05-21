@@ -144,13 +144,14 @@
 
 ```
 deep-fork-thinking/
-├── README.md          # 本文件
-├── SKILL.md           # 入口文件（完整框架）
-├── CASES.md           # 完整案例库
-└── levels/
-    ├── 普通级.md      # 追问 1~2 层
-    ├── 中复杂级.md    # 追问 2~3 层
-    └── 高复杂级.md    # 追问 3~5 层 + ECPBMR
+├── README.md           # 本文件
+├── SKILL.md            # 入口文件（完整框架）
+├── CASES.md            # 完整案例库
+└── references/
+    ├── README.md       # 复杂度分级说明
+    ├── 普通级.md       # 追问 1~2 层
+    ├── 中复杂级.md     # 追问 2~3 层
+    └── 高复杂级.md     # 追问 3~5 层 + ECPBMR
 ```
 
 ---
